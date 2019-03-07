@@ -5,7 +5,7 @@ Created on Mon Dec 31 10:41:38 2018
 import pandas as pd
 
 #reading csv file
-df = pd.read_csv('C:/Users/dubek/Downloads/Folder/ecommerce_data.csv')
+df = pd.read_csv('ecommerce_data.csv')
 
 #accessing the required data column using iloc function
 #working of iloc:
