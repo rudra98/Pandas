@@ -1,2 +1,2 @@
 # Pandas
-Importing datasets using Pandas in Python
+Working with datasets using Pandas in Python
